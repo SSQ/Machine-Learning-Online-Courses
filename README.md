@@ -1,7 +1,8 @@
 # Machine Learning Online Courses
-- Description
-- Content
-- Detail
+The following is the content of this page 
+- [Description](https://github.com/SSQ/Machine-Learning-Online-Courses/blob/master/README.md#description)
+- [Content](https://github.com/SSQ/Machine-Learning-Online-Courses/blob/master/README.md#content)
+- [Detail](https://github.com/SSQ/Machine-Learning-Online-Courses/blob/master/README.md#detail)
 ## Description
 - The following is a list of online courses about machine learning. (enrolled, completed, interested)
 - The order does not matters
