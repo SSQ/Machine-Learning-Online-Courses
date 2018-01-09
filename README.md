@@ -5,8 +5,9 @@ The following is the content of this page
 - [Detail](https://github.com/SSQ/Machine-Learning-Online-Courses/blob/master/README.md#detail)
 ## Description
 - The following is a list of online courses about machine learning. (enrolled, completed, interested)
-- The order does not matters
+- The order does not matter
 - The list is created on my own experience
+- I will keep updating this repo.
 
 ## Content
 - Stanford [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)  
