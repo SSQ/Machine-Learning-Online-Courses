@@ -54,10 +54,7 @@ The following is the content of this page
 
 - **Schedule:** Completed
 
-- **Note:** 
-  - Course's content in Coursera can be found in [my blog](https://ssq.github.io/2017/05/31/Coursera%20S%20Machine%20Learning%20Notebook/)
-
-  - Course's lecture slides and programming assignments in Coursera can be found in [my Github](https://github.com/SSQ/Coursera-Ng-Machine-Learning)
+- **Note:** None
 
 - **I want to say:** This is my first course in machine learning.
 
@@ -76,10 +73,7 @@ The following is the content of this page
 
 - **Schedule:** 4/4, Completed
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/08/19/Coursera%20UW%20Machine%20Learning%20Specialization%20Notebook/)
-
-  - Course's lecture slides and programming assignments in Coursera can be found in [my Github](https://github.com/SSQ/Coursera-UW-Machine-Learning-specialization)
+- **Note:** None
 
 - **I want to say:** 
   - This course teach you how to build a model from scratch and how to use it. 
@@ -112,10 +106,7 @@ The following is the content of this page
 
 - **Schedule:** 3/4 Completed
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/07/17/Coursera%20S%20Algorithms%20Specialization%20Notebook/)
-
-  - Course's lecture slides and programming assignments in Coursera can be found in [my Github](https://github.com/SSQ/Coursera-Stanford-Algorithms-Specialization)
+- **Note:** None
 
 - **I want to say:** 
   - I have completed the first three courses. Many programming assignments need more optimization. 
@@ -136,10 +127,7 @@ The following is the content of this page
 
 - **Schedule:** 2/6 Completed
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/05/06/Coursera%20UIUC%20Data%20Mining%20Notebook/)
-
-  - Course's lecture slides in Coursera can be found in my Github (search UIUC)
+- **Note:** None
 
 - **I want to say:** 
   - I have completed the only first two courses for two reasons. Time consuming and problems about programming assignments. 
@@ -161,10 +149,7 @@ The following is the content of this page
 
 - **Schedule:** 4/5
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/08/28/Coursera%20Ng%20Deep%20Learning%20Specialization%20Notebook/)
-
-  - Course's lecture slides in Coursera can be found in my Github. I will not git the programming assignments to github till I complete these whole courses because of the honor code.
+- **Note:** None
 
 - **I want to say:** I'm taking. I love this specialization
 
@@ -198,10 +183,7 @@ The following is the content of this page
 
 - **Schedule:** 3/7 
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/09/26/Coursera%20RU%20Fundamentals%20of%20Computing%20Specialization/)
-
-  - Course's programming assignments in Coursera can be found in my Github
+- **Note:** None
 
 - **I want to say:** I'm taking. Very interesting tiny games. Making progress for proficient in Python
 
@@ -221,10 +203,7 @@ The following is the content of this page
 
 - **Schedule:** 2/7 
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/09/26/Coursera%20PU%20%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%AE%97%E6%B3%95%20Specialization/)
-
-  - ~~Course's programming assignments in Coursera can be found in [my Github]~~
+- **Note:** None
 
 - **I want to say:** I'm taking. Making progress for familiar with C/C++
 
@@ -242,10 +221,7 @@ The following is the content of this page
 
 - **Schedule:** 1/6
 
-- **Note:** 
-  - Course's description, content, question and answer in Coursera can be found in [my blog](https://ssq.github.io/2017/11/19/Coursera%20HSE%20Advanced%20Machine%20Learning%20Specialization/)
-
-  - ~~Course's lecture slides and programming assignments in Coursera can be found in [my Github]~~
+- **Note:** None
 
 - **I want to say:** I'm taking
 
@@ -261,10 +237,7 @@ The following is the content of this page
 
 - **Schedule:** Capstone
 
-- **Note:** 
-  - Course's description, content, question and answer in Udacity can be found in [my blog](https://ssq.github.io/2017/02/06/Udacity%20MLND%20Notebook/)
-
-  - Course's projects in Udacity can be found in [my Github](https://github.com/SSQ/Udacity-Machine-Learning-Nano-Degree-Specialization)
+- **Note:** None
 
 - **I want to say:** 
   - Add projects in your resume. 
