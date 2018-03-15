@@ -69,7 +69,7 @@ The following is the content of this page
 
 - **Highly Recommend,** machine learning algorithms
 
-- **Time consuming:** one day per week, from 9:00am to 24:00pm, I'm using pandas, it could be faster for sframe.
+- **Time consuming:** one day per week, from 9:00am to 24:00pm, I'm using pandas partially, it could be faster for sframe.
 
 - **Schedule:** 4/4, Completed
 
